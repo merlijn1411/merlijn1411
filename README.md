@@ -17,6 +17,7 @@
 </div>
 
 ---
+## About Me :
 
 - I’m @merlijn1411
 - 👀 I’m interested in playing games, art and music 
