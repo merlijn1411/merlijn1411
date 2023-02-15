@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src=https://dribbble.com/shots/2595118-Apps-developer-logo-design-symbol-phone-coding-brackets-GIF? width="600" height="300"/>
 </div>
 
 ---
