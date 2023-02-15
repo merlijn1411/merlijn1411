@@ -7,12 +7,18 @@
 </div>
 
 <div align="center">
+👋 Hello There!
+</div>
+
+---
+
+<div align="center">
   <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGM0OGQ3NGZhMDMxNWFkNDczZmI0YTI5ZmE4MzQ1ZWUyMThjOGNjNyZjdD1n/dWesBcTLavkZuG35MI/giphy.gif width="600" height="300"/>
 </div>
 
 ---
 
-- 👋 Hi, I’m @merlijn1411
+- I’m @merlijn1411
 - 👀 I’m interested in playing games, art and music 
 - 🌱 I’m currently learning skill and programming. 
 - 💞️ I’m looking to collaborate on unity
