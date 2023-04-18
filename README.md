@@ -20,6 +20,7 @@
 ## About Me :
 
 - I’m @merlijn1411
+- this is my School account 
 - 👀 I’m interested in playing games, art and music 
 - 🌱 I’m currently learning skill and programming. 
 - 💞️ I’m looking to collaborate on unity
