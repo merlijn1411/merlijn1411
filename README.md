@@ -20,7 +20,6 @@
 ## About Me :
 
 - I’m @merlijn1411
-- this is my School account 
 - 👀 I’m interested in playing games, art and music 
 - 🌱 I’m currently learning skill and programming. 
 - 📫 How to reach me 34530@ma-web.nl
