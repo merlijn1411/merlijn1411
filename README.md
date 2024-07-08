@@ -2,10 +2,6 @@
   <img src=https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif width="100"/>
 </div>
 
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=merlijn1411&style=flat-square&color=blue" alt=""/>
-</div>
-
 <div align="center">
 👋 Hello There!
 </div>
