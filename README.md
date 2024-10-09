@@ -21,8 +21,3 @@
 </div>
 
 ---
-### 🌍 How to reach me :
-<div>
-  <p> LinkedIn : https://www.linkedin.com/in/merlijn-van-aalst-670025284/ </p>
-  <p> Mail : merlijnvanaalst1411@gmail.com </p>
-</div>
