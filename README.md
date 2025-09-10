@@ -13,7 +13,7 @@
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div align="left" >
-  <img src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png" title="C# logo" alt="C# logo" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/256px-Logo_C_sharp.svg.png?20221121173824" title="C# logo" alt="C# logo" width="40" height="40"/>&nbsp;
   <img src="https://logos-world.net/wp-content/uploads/2023/01/Unity-Logo.png"  title="Unity logo" alt="Unity logo" width="80" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" title="Blender logo" alt="Blender logo" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" title="VS Studio logo" alt="VS Studio logo" width="40" height="40"/>&nbsp;
