@@ -13,11 +13,12 @@
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div align="left" >
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/256px-Logo_C_sharp.svg.png?20221121173824" title="C# logo" alt="C# logo" width="40" height="40"/>&nbsp;
-  <img src="https://logos-world.net/wp-content/uploads/2023/01/Unity-Logo.png"  title="Unity logo" alt="Unity logo" width="80" height="40"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" title="Blender logo" alt="Blender logo" width="40" height="40"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" title="VS Studio logo" alt="VS Studio logo" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/archive/6/69/20231108190719%21Logo_Aseprite.svg" title="Asprite logo" alt="Aseprite logo Image" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" title="C# logo" alt="C# logo" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" title="Unity logo" alt="Unity logo"width="80" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" title="Blender logo" alt="Blender logo" width="80" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" title="VS Studio logo" alt="VS Studio logo" width="80" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Docker logo" alt="Docker Logo"width="80" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/archive/6/69/20231108190719%21Logo_Aseprite.svg" title="Asprite logo" alt="Aseprite logo Image" width="80" height="40"/>&nbsp;
 </div>
 
 ---
