@@ -12,13 +12,14 @@
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
-<div align="left" >
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" title="C# logo" alt="C# logo" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" title="Unity logo" alt="Unity logo"width="80" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" title="Blender logo" alt="Blender logo" width="80" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" title="VS Studio logo" alt="VS Studio logo" width="80" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Docker logo" alt="Docker Logo"width="80" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/archive/6/69/20231108190719%21Logo_Aseprite.svg" title="Asprite logo" alt="Aseprite logo Image" width="80" height="40"/>&nbsp;
-</div>
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/archive/6/69/20231108190719%21Logo_Aseprite.svg" height="40"/>
+</p>
 
 ---
