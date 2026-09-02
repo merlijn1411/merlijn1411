@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/jetbrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/archive/6/69/20231108190719%21Logo_Aseprite.svg" height="40"/>
+  <img src="https://img.shields.io/badge/Aseprite-%23FFFFFF.svg?style=for-the-badge&logo=Aseprite&logoColor=#7D929E" height="40"/>
 </p>
 
 ### 🌐 Web Development:
